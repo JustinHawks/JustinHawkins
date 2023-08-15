@@ -1,6 +1,6 @@
 <h1>Justin Hawkins | <a href="https://linkedin.com/in/jmhawk">IT Professional</a></h1>
 
-<h2> Information Technology Projects:</h2>
+<h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
