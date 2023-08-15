@@ -1,4 +1,4 @@
-<h1>Justin Hawkins | <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<h1>Justin Hawkins | <a href="https://linkedin.com/in/jmhawk">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
